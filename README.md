@@ -3,6 +3,8 @@
  - You will also need to [create github account](https://github.com/join?ref_cta=Sign+up)
  - For this tutorial, I used VS Code:
    - Create a new folder ("GitDemo")
+   - testing
+  
    - Add an empty file to that folder ("hello.txt")
 ### 1. [Basic git commands](docs/COMMANDS.md)
 ### 2. [Repository branches](docs/BRANCHES.md)
